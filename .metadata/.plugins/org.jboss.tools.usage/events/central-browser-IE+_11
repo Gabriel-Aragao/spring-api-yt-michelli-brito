@@ -1,0 +1,10 @@
+#Mon Jun 22 11:20:38 BRT 2020
+ct=central
+a=browser
+c=1
+s=0
+d=1592835638945
+v=2.1.301
+cmp=central
+cl=IE _11
+l=Specifies which browser was used for JBoss Tools Central

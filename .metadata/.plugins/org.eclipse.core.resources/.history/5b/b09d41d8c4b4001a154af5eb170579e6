@@ -1,0 +1,10 @@
+package com.xiud.apirestmichellibrito.models;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="produto")
+public class Produto implements Serializable{
+
+}

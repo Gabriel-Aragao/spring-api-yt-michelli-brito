@@ -1,0 +1,5 @@
+package com.xiud.apirestmichellibrito.models;
+
+public class Produto {
+
+}
